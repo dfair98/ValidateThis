@@ -12,7 +12,7 @@
 *	License.
 * 
 * @file  AbstractClientRuleScripter.cfc
-* @contributor  David Fairfield (david.fairfield@sharp.com)
+* @contributor  David Fairfield (david.fairfield@gmail.com)
 * @name AbstractClientRuleScripter
 * @hint I am a base object which all concrete ClientRuleScripters extend.
 * @output=false
