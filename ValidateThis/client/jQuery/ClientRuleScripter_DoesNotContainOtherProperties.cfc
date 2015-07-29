@@ -15,7 +15,7 @@
 *
 *
 * @file  ClientRuleScripter_DoesNotContainOtherProperties.cfc
-* @author  David Fairfield (david.fairfield@gmail.com)
+* @contributor  David Fairfield (david.fairfield@gmail.com)
 * @name ClientRuleScripter_DoesNotContain
 * @extends AbstractClientRuleScripter
 * @hint "Fails if the validated property contains the value of another property
